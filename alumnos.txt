@@ -2,7 +2,7 @@ git-reemplazo-4-24
 ------------------
 
 1 Carlos Bonete
-2
+2 Carolina Penalba
 3 Cristina Ramirez
 4 Jacqueline Xiang
 5 Maissae Aharti
